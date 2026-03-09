@@ -3,7 +3,10 @@ pie
 lcm
 gcd
 prime sieve
-power exponentiation
+binary exponentiation
 binomial coefficient / hockey-stick relation
 pythagorean triples
 addition/multiplication by digits
+-----------
+multiplicative inverse
+coprime pair generation
